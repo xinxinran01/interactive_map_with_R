@@ -1,0 +1,7 @@
+demo-project/
+test-project*/
+.Rhistory
+.RData
+.Rproj.user/
+*.zip
+
